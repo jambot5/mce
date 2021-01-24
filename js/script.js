@@ -26,7 +26,3 @@ function includeHTML() {
     }
 };
 includeHTML();
-
-function thanksContact() {
-    document.getElementById("thanks").hidden = false;
-}
